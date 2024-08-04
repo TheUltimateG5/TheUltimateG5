@@ -1,7 +1,7 @@
-- 👋 Yolo, I’m @TheUltimateG5, one of the depressed teens around the world, nothing more.
-- 👀 I’m interested in, well, coding. Duh. 
-- 🌱 I’m currently learning networking stuff, ooh hot!
-- 💞️ I’m looking to collaborate on- if you really wanna help me, shoot me a DM.
+- 👋 Purpose: Personal space for private projects
+- 👀 Interested: Coding, Chess, Collecting
+- 🌱 Learning: DBMS, AIML, DS
+- 💞️ Achievements: 2-time HS CC Top 3 Contender
 - 📫 Discord: @UltimateMaster55, Instagram: kingkrooler
 
 <!---
